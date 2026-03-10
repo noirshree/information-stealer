@@ -77,4 +77,3 @@ This tool is intended for **authorized security testing and educational purposes
 
 ---
 
-Would you like me to show you how to bundle these logs into a single compressed `.zip` file for easier data management?
