@@ -48,26 +48,14 @@ python main.py
 
 ```
 
-
 3. **Output:** The script will generate the following files in the local directory:
-* 
-`system_info.txt`: Hardware and OS details.
-
-
-* 
-`clipboard.txt`: The text found on your clipboard at the time of execution.
-
-
+* `system_info.txt`: Hardware and OS details.
+* `clipboard.txt`: The text found on your clipboard at the time of execution.
 * `screenshot.png`: An image of your current screen.
-* 
-`keylog.txt`: A record of keys pressed during the script's run time.
-
+* `keylog.txt`: A record of keys pressed during the script's run time.
 
 ---
 
 ### Educational Disclaimer
 
 This tool is intended for **authorized security testing and educational purposes only**. Unauthorized use of keyloggers or data collection tools on systems without consent is illegal and unethical. Always ensure you are operating within legal and policy boundaries.
-
----
-
