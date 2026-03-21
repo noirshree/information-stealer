@@ -1,9 +1,3 @@
-While the previous project focused on evaluating security, this script is designed to collect data from a system. In a professional or educational context, this is often categorized as a **System Monitoring Tool** or a **Forensics Data Collector**.
-
-It’s important to note that tools with these capabilities (keylogging and clipboard monitoring) should only be used on systems you own or have explicit permission to monitor, as they can be used to capture sensitive information like passwords.
-
----
-
 ## README: System Information & Activity Monitor
 
 This project is a modular Python-based utility designed to capture system-level data and user activity logs. It automates the collection of hardware specifications, clipboard history, screen captures, and keystroke logs for diagnostic or monitoring purposes.
